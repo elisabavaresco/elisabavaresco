@@ -1,8 +1,11 @@
-# Hi there 👋 I'm Elisa!
-# 💼 Co-founder @ VENIVI <>
-# 👯 Influencer Marketing Specialist
-# 🚀 Passionate about technology, data and digital strategies
-# 📊 Studying to become a data scientist
+Hi there, I'm Elisa! 👋
+- 💼 Co-founder @ [VENIVI <>](https://venivi.co)
+- 👯 Influencer Marketing Specialist
+- 💎 Contemporary Luxury Business and Marketing Specialist
+- 🚀 Passionate about technology, data and digital strategies
+- 📊 Studying to become a data scientist
+- 📫 How to reach me: elisa@venivi.co
+- 💃 Fun fact: I speak fluently Portuguese 🇧🇷, English 🇬🇧, German 🇩🇪 and I'm currently learning Danish 🇩🇰 and Italian 🇮🇹!
 
 <!--
 **elisabavaresco/elisabavaresco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
