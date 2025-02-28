@@ -1,11 +1,9 @@
 # Hi there 👋 I'm Elisa!
-💼 Co-founder @ VENIVI <>
-👯 Influencer Marketing Specialist
-🚀 Passionate about technology, data and digital strategies
-📊 Studying to become a data scientist
+# 💼 Co-founder @ VENIVI <>
+# 👯 Influencer Marketing Specialist
+# 🚀 Passionate about technology, data and digital strategies
+# 📊 Studying to become a data scientist
 
-### 📈 My numbers:
-![GitHub Numbers](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
 <!--
 **elisabavaresco/elisabavaresco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
